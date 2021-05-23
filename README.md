@@ -1,3 +1,3 @@
 # hello-world
 
-*Sample node CRUD app with express
+* Sample node CRUD app with express
